@@ -1,0 +1,7 @@
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\bin\A6.dll.config
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\bin\A6.dll
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\bin\A6.pdb
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\obj\Release\A6.csprojAssemblyReference.cache
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\obj\Release\A6.csproj.CoreCompileInputs.cache
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\obj\Release\A6.dll
+C:\Users\Chanl\Documents\CSE 445\Projects\A6\A6\obj\Release\A6.pdb
